@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @YoniKiriaty
+- 👀 I’m interested in Robotics, Snooker & Running
+- 🌱 I’m currently learning Game Development With Unity
+- 📫 How to reach me - YoniKiriaty@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can solve a Rubik's Cube Blindfolded
